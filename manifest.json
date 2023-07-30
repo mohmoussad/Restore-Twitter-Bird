@@ -1,0 +1,16 @@
+{
+  "name": "Restore Twitter Bird",
+  "version": "1.0",
+  "manifest_version": 3,
+  "description": "Restore twitter's bird logo.",
+  "icons": {
+    "32": "./images/logo.png",
+    "128": "./images/logo.png"
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://twitter.com/*"],
+      "js": ["script.js"]
+    }
+  ]
+}
