@@ -1,6 +1,6 @@
 # Restore Twitter Bird Chrome Extention
 
-Simple chrome extension restores Twitter's blue bird logo.
+Chrome extension restores Twitter's blue bird logo.
 
 It's so simple in terms of logic and syntax, but it gives me a chance to brag about my nerdy interests (and surprise my mom, making her believe I'm a hacker).
 
