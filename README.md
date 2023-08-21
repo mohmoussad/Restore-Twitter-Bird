@@ -1,22 +1,24 @@
 # Restore Twitter Bird Chrome Extention
 
-Simple Chrome extension that restores Twitter's blue bird logo, Using JavaScript and the MutationObserver API to detect changes in the DOM and apply the logo and the favicon restoration when the user is logged in or logged out.
+Simple chrome extension restores Twitter's blue bird logo.
+
+It's so simple in terms of logic and syntax, but it gives me a chance to brag about my nerdy interests (and surprise my mom, making her believe I'm a hacker).
 
 ## Installation
 
-1. Clone or download the repository to your local machine.
-2. Open Google Chrome and go to `chrome://extensions/`.
+1. Download the code to your local machine.
+2. Open Google Chrome and navigate to `chrome://extensions/`.
 3. Enable the "Developer mode".
-4. Click on "Load unpacked" and select the folder where you cloned or downloaded the extension.
+4. Click "Load unpacked" and select the folder where you downloaded the extension.
 
 ## Usage
 
-Once the extension is installed, simply log in or log out of your Twitter account, and the logo will be automatically replaced with the classic blue bird.
+Once installed, the changes will take place immediately.
 
-Please note that this extension is purely for educational and expermintal purposes.
+Kindly note that this extension is intended exclusively for educational and experimental purposes.
 
 ## To-Do
-- Tab's title.
-- Loading screen.
+- Restore tab's title.
+- Restore loading screen.
 
 
